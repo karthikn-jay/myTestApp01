@@ -2,4 +2,6 @@
     <string name="app_name">myTestApp01</string>
     <string name="edit_txt">Enter a message</string>
     <string name="send_btn">Send</string>
+    <string name="not_close_btn">close</string>
+    <string name="run_btn">Run</string>
 </resources>

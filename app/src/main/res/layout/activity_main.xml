@@ -18,4 +18,9 @@
         android:layout_height="wrap_content"
         android:text="@string/send_btn"
         android:onClick="sendMessage"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/run_btn"
+        android:onClick="startRun"/>
 </LinearLayout>
