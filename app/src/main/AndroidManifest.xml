@@ -16,7 +16,7 @@
         </activity>
         <activity android:name=".DisplayMessageActivity" />
 
-        <service android:name=".service.HelperCloseService"/>
+        <service android:name=".service.HelperService"/>
     </application>
 
 </manifest>
